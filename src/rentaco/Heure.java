@@ -10,14 +10,13 @@ class HeureException extends Exception {
 
 /**
  * @author Guillaume Weber
- * @version 1.0
+ * @version 2.0
  *
  */
 public class Heure {
 	private int heures ;
 	private int minutes ;
 	private int secondes ;
-	
 	
 	
 	public Heure(int heures, int minutes, int secondes) throws HeureException {
