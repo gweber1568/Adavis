@@ -1,4 +1,4 @@
-package rentaco;
+package fr.adavis.rentaco.utilitaires;
 
 import java.util.* ;
 
